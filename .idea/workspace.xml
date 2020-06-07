@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85327a90-37a9-4770-94ac-45d932415a47" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deletesentence.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4640">
+              <caret line="232" column="21" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-97">
+              <caret line="200" column="22" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
+              <folding>
+                <marker date="1591245271220" expanded="true" signature="1863:1885" ph="SELECT * FRO... newwords" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2040">
+              <caret line="102" column="21" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
+              <folding>
+                <marker date="1591245595111" expanded="true" signature="2272:2325" ph="SELECT * FRO... newwords" />
+                <marker date="1591245595111" expanded="true" signature="2487:2509" ph="SELECT * FRO... newwords" />
+                <marker date="1591245595111" expanded="true" signature="2731:2765" ph="SELECT * FRO... newwords" />
+                <marker date="1591245595111" expanded="true" signature="2931:2974" ph="SELECT * FRO... sentences" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sentence.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="31" column="98" selection-start-line="31" selection-start-column="98" selection-end-line="31" selection-end-column="98" />
+              <folding>
+                <marker date="1591245021391" expanded="true" signature="423:455" ph="SELECT * FRO... newwords" />
+                <marker date="1591245021391" expanded="true" signature="570:611" ph="SELECT * FRO... sentences" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pepe-the-frog-minneapolis-police-policeman-george-floyd.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3520">
+              <caret line="176" column="31" selection-start-line="176" selection-start-column="31" selection-end-line="176" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/createsentence.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4120">
+              <caret line="206" column="56" selection-start-line="206" selection-start-column="56" selection-end-line="206" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3920">
+              <caret line="196" selection-start-line="196" selection-end-line="233" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/editsentence.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4160">
+              <caret line="208" column="56" selection-start-line="208" selection-start-column="56" selection-end-line="208" selection-end-column="56" />
+              <folding>
+                <marker date="1591245271315" expanded="true" signature="463:505" ph="SELECT * FRO... sentences" />
+                <marker date="1591245271315" expanded="true" signature="1500:1617" ph="UPDATE sentences... " />
+                <marker date="1591245271315" expanded="true" signature="1785:1843" ph="..." />
+                <marker date="1591245271315" expanded="true" signature="1913:1935" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4360">
+              <caret line="218" column="56" selection-start-line="218" selection-start-column="56" selection-end-line="218" selection-end-column="56" />
+              <folding>
+                <marker date="1591245271178" expanded="true" signature="488:520" ph="SELECT * FRO... newwords" />
+                <marker date="1591245271178" expanded="true" signature="1633:1707" ph="UPDATE newwords... " />
+                <marker date="1591245271178" expanded="true" signature="1900:1958" ph="..." />
+                <marker date="1591245271178" expanded="true" signature="2028:2050" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>search</find>
+      <find>xóa từ</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/toeicapp.sql" />
+        <option value="$PROJECT_DIR$/sentence.php" />
+        <option value="$PROJECT_DIR$/create.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/editsentence.php" />
+        <option value="$PROJECT_DIR$/edit.php" />
+        <option value="$PROJECT_DIR$/delete.php" />
+        <option value="$PROJECT_DIR$/createsentence.php" />
+        <option value="$PROJECT_DIR$/deletesentence.php" />
+        <option value="$PROJECT_DIR$/search.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="553" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="toeicapp-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toeicapp-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85327a90-37a9-4770-94ac-45d932415a47" name="Default" comment="" />
+      <created>1590567982401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590567982401</updated>
+      <workItem from="1590567983583" duration="1009000" />
+      <workItem from="1590676111282" duration="3195000" />
+      <workItem from="1590758413028" duration="564000" />
+      <workItem from="1590764916386" duration="837000" />
+      <workItem from="1590804066946" duration="683000" />
+      <workItem from="1590808796219" duration="114000" />
+      <workItem from="1591067220267" duration="1326000" />
+      <workItem from="1591096535878" duration="9831000" />
+      <workItem from="1591188666096" duration="188000" />
+      <workItem from="1591189198824" duration="56000" />
+      <workItem from="1591198960361" duration="2627000" />
+      <workItem from="1591242033147" duration="3611000" />
+      <workItem from="1591275994802" duration="732000" />
+      <workItem from="1591288232669" duration="3000" />
+      <workItem from="1591345541720" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24879000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.147651" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.31205675" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/deletesentence.php</url>
+          <line>22</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/toeicapp.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="71" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2000-x-600-Home-Page-Book-RVLove-Book-Out_rfw.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/313914832.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/70658044_972499259778031_2295796299024302080_o.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toeic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deletesentence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4640">
+          <caret line="232" column="21" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="102" column="21" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
+          <folding>
+            <marker date="1591245595111" expanded="true" signature="2272:2325" ph="SELECT * FRO... newwords" />
+            <marker date="1591245595111" expanded="true" signature="2487:2509" ph="SELECT * FRO... newwords" />
+            <marker date="1591245595111" expanded="true" signature="2731:2765" ph="SELECT * FRO... newwords" />
+            <marker date="1591245595111" expanded="true" signature="2931:2974" ph="SELECT * FRO... sentences" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="98" selection-start-line="31" selection-start-column="98" selection-end-line="31" selection-end-column="98" />
+          <folding>
+            <marker date="1591245021391" expanded="true" signature="423:455" ph="SELECT * FRO... newwords" />
+            <marker date="1591245021391" expanded="true" signature="570:611" ph="SELECT * FRO... sentences" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pepe-the-frog-minneapolis-police-policeman-george-floyd.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3520">
+          <caret line="176" column="31" selection-start-line="176" selection-start-column="31" selection-end-line="176" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createsentence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4120">
+          <caret line="206" column="56" selection-start-line="206" selection-start-column="56" selection-end-line="206" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3920">
+          <caret line="196" selection-start-line="196" selection-end-line="233" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editsentence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4160">
+          <caret line="208" column="56" selection-start-line="208" selection-start-column="56" selection-end-line="208" selection-end-column="56" />
+          <folding>
+            <marker date="1591245271315" expanded="true" signature="463:505" ph="SELECT * FRO... sentences" />
+            <marker date="1591245271315" expanded="true" signature="1500:1617" ph="UPDATE sentences... " />
+            <marker date="1591245271315" expanded="true" signature="1785:1843" ph="..." />
+            <marker date="1591245271315" expanded="true" signature="1913:1935" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4360">
+          <caret line="218" column="56" selection-start-line="218" selection-start-column="56" selection-end-line="218" selection-end-column="56" />
+          <folding>
+            <marker date="1591245271178" expanded="true" signature="488:520" ph="SELECT * FRO... newwords" />
+            <marker date="1591245271178" expanded="true" signature="1633:1707" ph="UPDATE newwords... " />
+            <marker date="1591245271178" expanded="true" signature="1900:1958" ph="..." />
+            <marker date="1591245271178" expanded="true" signature="2028:2050" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="200" column="22" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
+          <folding>
+            <marker date="1591245271220" expanded="true" signature="1863:1885" ph="SELECT * FRO... newwords" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
